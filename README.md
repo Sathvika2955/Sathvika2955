@@ -1,5 +1,5 @@
 
-# Hi, I'm Sathvika Nidadavolu👋
+## Hi, I'm Sathvika Nidadavolu👋
 
 ---
 
