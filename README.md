@@ -1,5 +1,5 @@
 
-# Hi, I'm Sathvika 👋
+# Hi, I'm Sathvika Nidadavolu👋
 
 
 ## 👩‍💻 About Me
@@ -17,13 +17,12 @@ I am a B.Tech Final Year Student specializing in Computer Science (AIML). I am p
 ---
 
 ## 🚀 Projects
-| Project Name | Description | Tech Stack |
-|-------------|------------|------------|
-| SmartBudget | Personal Expense & Budget Tracker | Java, JDBC, HTML, CSS, JS |
-| Tic-Tac-Toe | Interactive browser-based game | JavaScript |
-| Pencil Sketch Generator | Converts images to pencil sketches | Python, OpenCV |
-| Carbon Calculator | Household carbon footprint calculator | HTML, CSS, JS |
-
+| Project Name | Description | Technologies |
+|-------------|------------|--------------|
+| **Application Role Tracker** | Salesforce-based application to manage and track internal role applications with automated screening, email notifications, reports, and dashboards | Salesforce (Objects, Flows, Validation Rules, Reports, Dashboards) |
+| **Tic-Tac-Toe Game** | Interactive browser-based game with UI | JavaScript, HTML, CSS |
+| **Pencil Sketch Generator** | Converts color images into pencil sketches | Python, OpenCV |
+| **Carbon Calculator for Households** | Calculates household carbon footprint | HTML, CSS, JavaScript |
 ---
 
 ## 📊 GitHub Stats
