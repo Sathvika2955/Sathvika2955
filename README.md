@@ -49,12 +49,9 @@ I am a B.Tech Final Year Student specializing in Computer Science (AIML). I am p
 ---
 
 ## 🏅 Badges & Certifications
-![ServiceNow  Administrator](https://drive.google.com/file/d/1OvmWBrAHXrtGnH31pOcF3htRy1uO8pjg/view?usp=sharing)
-<br>
-![ServiceNow  Developer](https://drive.google.com/file/d/1ErcKrfCXYnq3bXl9vz0A9vKwUJcd3ton/view?usp=drive_link)
-<br>
-![Salesforce Platform Developer ](https://drive.google.com/file/d/1HGryMhOUMpq81N4e1fzwmbHfaNlcVyyl/view?usp=drive_link)
-
+<img src="./servicenow-admin.jpg" width="300"/><br><br>
+<img src="./servicenow-developer.jpg" width="300"/><br><br>
+<img src="./salesforce-platform-developer.jpg" width="300"/>
 
 ---
 
