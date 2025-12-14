@@ -42,7 +42,6 @@ I am a B.Tech Final Year Student specializing in Computer Science (AIML). I am p
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sathvika2955&show_icons=true&theme=default" height="160"/>
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathvika2955" height="160"/>
 </p>
 
