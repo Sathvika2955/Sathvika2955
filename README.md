@@ -66,7 +66,9 @@ I am a B.Tech Final Year Student specializing in Computer Science (AIML). I am p
 - Problem Solving 💡  
 - Java DSA 💻  
 - Web Development 🌐  
-- Learning New Technologies 🚀  
+- Learning New Technologies 🚀
+- Servicenow
+- Salesforce
 
 ---
 
