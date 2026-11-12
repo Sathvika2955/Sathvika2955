@@ -94,7 +94,7 @@ I enjoy working with Java, Python, Data Analytics, AI/ML, and enterprise platfor
 
 ---
 
-## 📊 Data Analytics & Python Learning
+## Data Analytics & Python Learning
 
 Currently expanding my skills in Python programming, data analysis and visualization.
 
@@ -142,7 +142,7 @@ Currently expanding my skills in Python programming, data analysis and visualiza
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Machine Learning and Deep Learning
 - Python for Data Science
