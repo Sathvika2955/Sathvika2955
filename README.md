@@ -8,15 +8,15 @@ I enjoy working with Java, Python, Data Analytics, AI/ML, and enterprise platfor
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Interested in Software Development, AI/ML and Data Analytics.
-- 🐍 Working with Python, NumPy, Pandas, Matplotlib and Seaborn.
-- 🤖 Exploring Machine Learning, Deep Learning and Generative AI.
-- ☁️ ServiceNow Certified Application Developer and System Administrator.
-- ⚡ Salesforce Certified Platform Developer.
-- 🧩 Practicing Data Structures & Algorithms.
-- 🌱 Continuously learning and building real-world projects.
+-  Interested in Software Development, AI/ML and Data Analytics.
+-  Working with Python, NumPy, Pandas, Matplotlib and Seaborn.
+-  Exploring Machine Learning, Deep Learning and Generative AI.
+-  ServiceNow Certified Application Developer and System Administrator.
+-  Salesforce Certified Platform Developer.
+-  Practicing Data Structures & Algorithms.
+-  Continuously learning and building real-world projects.
 
 ---
 
