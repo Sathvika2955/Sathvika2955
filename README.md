@@ -174,5 +174,5 @@ Currently expanding my skills in Python programming, data analysis and visualiza
 ---
 
 <p align="center">
-<b>Building. Learning. Experimenting. Growing. 🚀</b>
+<b>Building. Learning. Experimenting. Growing. </b>
 </p>
